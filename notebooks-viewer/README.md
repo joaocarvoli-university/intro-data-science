@@ -4,5 +4,5 @@
 
 | Notebooks name| Links |
 | ------ | ------ |
-| 01 - Introduction | [https://bit.ly/3co5fEO] |
-| 02 - Python Overview | [https://bit.ly/3qzMIKQ] |
+| 01 - Introduction | [http://bit.ly/38uzXLy] |
+| 02 - Python Overview | [http://bit.ly/38xNgee] |
