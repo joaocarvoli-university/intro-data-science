@@ -6,3 +6,5 @@
 | ------ | ------ |
 | 01 - Introduction | [http://bit.ly/38uzXLy] |
 | 02 - Python Overview | [http://bit.ly/38xNgee] |
+| 03 - Libs| [http://bit.ly/3saWDIp] |
+
