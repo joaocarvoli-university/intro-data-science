@@ -8,4 +8,4 @@
 | 02 - Python Overview | [http://bit.ly/38xNgee] |
 | 03 - Libs| [http://bit.ly/3saWDIp] |
 | 04 - Types of Analysis | [https://bit.ly/3w25i2i] |
-
+| 05 - Machine Learning - Overview | [https://bit.ly/3rsOuOg] |
