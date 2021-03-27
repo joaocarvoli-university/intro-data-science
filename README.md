@@ -1,6 +1,5 @@
-# Intro-Data-Science
-
-### This course is my first step in Data Science
+## Intro-Data-Science
+#### This course is my first step in Data Science...
 
 All things that I will learn comes from these pages: -->
  [[Course GitHub](https://github.com/ciencia-de-dados-pratica/praticas/tree/master/workshop-data-science)] &&
